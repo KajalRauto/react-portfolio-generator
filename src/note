@@ -1,0 +1,25 @@
+Node Javascript Runnere / Runtime Environment
+NPM = Node Package Manager
+NPX = Node Package Executor
+
+===Install WinZip ===
+1. Download the setup file file
+2. Run the setup file
+3. Click on next next next finish.
+4. Run WinZip.
+Delete the set up file
+
+=== ===== ===
+
+npm install <PackageName>
+<PackageName> <Parameters>
+npm uninstall <PackageName>
+
+===
+
+npx <PackageName> <Parameters>
+
+===
+
+HMR Hot Module Replacement
+WDS Webpack Dev Server
